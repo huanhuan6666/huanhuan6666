@@ -27,13 +27,7 @@
 - 🧠 Developing intelligent agents for automated software engineering tasks
 - 🔧 Integrating AI-driven tools into traditional software development workflows
 
-### 📫 Connect with Me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-
 <!-- ### ⚡ Fun Fact
-
 I believe AI can significantly boost software development efficiency, but human creativity will always be irreplaceable!
 -->
 
